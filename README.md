@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dhialidigitaldesigns.co.za/)
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:info@dhialidigitaldesigns.co.za)
-[![Behance](https://img.shields.io/badge/👔-LinkedIn-blue)](https://www.behance.net/dhialichetty1)
+[![Behance](https://img.shields.io/badge/👔-Behance-blue)](https://www.behance.net/dhialichetty1)
 
 </div>
 
