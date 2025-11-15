@@ -61,51 +61,32 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 ## DV200 Portfolio Projects
 
 ### 🎓 Semester 1 Major Projects  
-**[Project Repository Name](https://github.com/yourusername/sem1-project)** | *[Live Demo](https://yoursem1project.com)*
+
+**[FaceOff](https://github.com/Dhiali/super-dashboard.git)**
 
 ![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+1+Project)
 
 **Description:** My first major project demonstrating [core concepts]. Focused on [specific technologies or methodologies].
 
-**Key Features:**
-- ✅ CRUD operations implementation
-- ✅ Responsive design principles
-- ✅ Clean code architecture
-
 **Tech Stack:** `JavaScript` `HTML5` `CSS3` `Firebase`
 
-**[Project Repository Name](https://github.com/yourusername/sem1-project)** | *[Live Demo](https://yoursem1project.com)*
+**[Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
 
 ![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+1+Project)
 
 **Description:** My first major project demonstrating [core concepts]. Focused on [specific technologies or methodologies].
 
-**Key Features:**
-- ✅ CRUD operations implementation
-- ✅ Responsive design principles
-- ✅ Clean code architecture
-
 **Tech Stack:** `JavaScript` `HTML5` `CSS3` `Firebase`
-
 
 ---
 ### 🎓 Semester 2 Major Project
-**[Project Repository Name](https://github.com/yourusername/project-repo)** | *[Live Demo](https://yourprojectdemo.com)*
+**[HouseMate](https://github.com/Dhiali/housemate.git)** 
 
 ![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+2+Project)
 
 **Description:** A comprehensive full-stack application that solves [problem statement]. Built with modern technologies including React, Node.js, and MongoDB.
 
-**Key Features:**
-- ✅ Feature 1 with detailed explanation
-- ✅ Feature 2 with technical implementation
-- ✅ Feature 3 showcasing advanced functionality
-
 **Tech Stack:** `React` `Node.js` `MongoDB` `Express` `JWT`
-
-
-
-
 
 ---
 
@@ -125,19 +106,9 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ## 📫 Let's Connect
 
-I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat!
+I'm always open to discussing technology, collaboration opportunities or just having a friendly chat!
 
-- **📧 Email:** [your.email@student.torrens.edu.au](mailto:your.email@student.torrens.edu.au)
-- **💼 LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **🌐 Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
-- **🐦 Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **📧 Email:** [your.email@student.torrens.edu.au](mailto:info@dhialidigitaldesigns.co.za)
+- **🌐 Portfolio:** [Your Portfolio Website](https://dhialidigitaldesigns.co.za/)
 
 ---
-
-<div align="center">
-
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-⭐ **Feel free to star my repositories if you find them interesting!**
-
-</div>
