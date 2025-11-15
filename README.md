@@ -21,39 +21,40 @@
 I’m a 20-year-old third-year User Experience (UX) and second-year Interactive Development student with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. Through my studio, Dhiali Digital Designs, I specialize in UX/UI design, branding and full-stack web development. I’m driven to build digital solutions that are both innovative and user-focused.
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
-- **React 19.1.1** - Modern React with latest features
-- **Vite** - Fast build tool and development server
-- **React Router** - Client-side routing
-- **Axios** - HTTP client for API requests
-- **Radix UI** - Accessible UI components
-- **Tailwind CSS** - Utility-first CSS framework
-- **Lucide React** - Beautiful icon library
-- **Framer Motion** - Animation library
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web application framework
-- **MySQL** - Relational database
-- **JWT** - JSON Web Token authentication
-- **bcryptjs** - Password hashing
-- **Helmet** - Security middleware
-- **CORS** - Cross-origin resource sharing
-- **Express Rate Limit** - API rate limiting
-- **Multer & Sharp** - Image upload and processing
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### Infrastructure & Deployment
-- **Google Cloud SQL** - Managed MySQL database
-- **Google Cloud Run** - Containerized backend deployment
-- **Azure Static Web Apps** - Frontend hosting
-- **GitHub Actions** - CI/CD pipeline
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-0044CC?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge)
+![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge)
+
 
 ---
 
