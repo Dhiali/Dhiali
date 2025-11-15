@@ -21,28 +21,34 @@
 I’m a 20-year-old third-year User Experience (UX) and second-year Interactive Development student with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. Through my studio, Dhiali Digital Designs, I specialize in UX/UI design, branding and full-stack web development. I’m driven to build digital solutions that are both innovative and user-focused.
 ---
 
-## 🛠️ Technical Skills
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+## 🛠️ Tech Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend
+- **React 19.1.1** - Modern React with latest features
+- **Vite** - Fast build tool and development server
+- **React Router** - Client-side routing
+- **Axios** - HTTP client for API requests
+- **Radix UI** - Accessible UI components
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Beautiful icon library
+- **Framer Motion** - Animation library
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Backend
+- **Node.js** - JavaScript runtime
+- **Express.js** - Web application framework
+- **MySQL** - Relational database
+- **JWT** - JSON Web Token authentication
+- **bcryptjs** - Password hashing
+- **Helmet** - Security middleware
+- **CORS** - Cross-origin resource sharing
+- **Express Rate Limit** - API rate limiting
+- **Multer & Sharp** - Image upload and processing
 
+### Infrastructure & Deployment
+- **Google Cloud SQL** - Managed MySQL database
+- **Google Cloud Run** - Containerized backend deployment
+- **Azure Static Web Apps** - Frontend hosting
+- **GitHub Actions** - CI/CD pipeline
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
