@@ -3,7 +3,7 @@
 
 # Welcome, I'm Dhiali Chetty
 
-![Profile Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=DV200+Portfolio)
+![Profile Banner](https://drive.google.com/file/d/1E-DZeDtxP2Xmt7rUal11OnqWvkF9kiiT/view?usp=sharing)
   
 **DV200 Software Development Student** | **Semester 1 & 2 Major Projects**
 
