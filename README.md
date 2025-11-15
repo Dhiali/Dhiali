@@ -22,7 +22,6 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 ---
 
 ## 🛠️ Technical Skills
-
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
