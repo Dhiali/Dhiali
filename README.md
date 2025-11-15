@@ -1,7 +1,7 @@
 <!-- Header & Profile Section -->
 <div align="center">
 
-# 👋 Hello, I'm [Your Name]
+# Welcome, I'm Dhiali Chetty
 
 ![Profile Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=DV200+Portfolio)
   
