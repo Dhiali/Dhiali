@@ -59,7 +59,8 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 ---
 
 ## DV200 Portfolio Projects
-### 🎓 Semester 1 Major Project  
+
+### 🎓 Semester 1 Major Projects  
 **[Project Repository Name](https://github.com/yourusername/sem1-project)** | *[Live Demo](https://yoursem1project.com)*
 
 ![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+1+Project)
@@ -72,6 +73,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 - ✅ Clean code architecture
 
 **Tech Stack:** `JavaScript` `HTML5` `CSS3` `Firebase`
+
 ---
 ### 🎓 Semester 2 Major Project
 **[Project Repository Name](https://github.com/yourusername/project-repo)** | *[Live Demo](https://yourprojectdemo.com)*
