@@ -7,9 +7,9 @@
   
 **DV200 Software Development Student** | **Semester 1 & 2 Major Projects**
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:your.email@student.torrens.edu.au)
-[![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-blue)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dhialidigitaldesigns.co.za/)
+[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:info@dhialidigitaldesigns.co.za)
+[![Behance](https://img.shields.io/badge/👔-LinkedIn-blue)](https://www.behance.net/dhialichetty1)
 
 </div>
 
