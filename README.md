@@ -1,7 +1,7 @@
 <!-- Header & Profile Section -->
 <div align="center">
 
-# Welcome, I'm Dhiali Chetty
+# Welcome, I'm Dhiali Chetty of
 
 ![Profile Banner](Logo%20light.png)
   
