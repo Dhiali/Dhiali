@@ -66,7 +66,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ![Project Screenshot](faceoff%20mockup.png)
 
-**Description:** My first major project demonstrating core concepts of React, API integration, and data visualization. Focused on modern web development with React, Chart.js, and RESTful APIs.
+**Description:** My first major project demonstrating core concepts of React, API integration and data visualization. Focused on modern web development with React, Chart.js and RESTful APIs.
 
 **Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
 
