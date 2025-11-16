@@ -76,9 +76,9 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ![Project Screenshot](drunken%20mock%20up.jpg)
 
-**Description:** My first major project demonstrating [core concepts]. Focused on [specific technologies or methodologies].
+**Description:** My first major full-stack project demonstrating advanced MERN stack development and creative UX design. Focused on gamified authentication systems, comprehensive CRUD operations and collaborative development methodologies using modern web technologies including React, Node.js, MongoDB and drag-and-drop interfaces.
 
-**Tech Stack:** `JavaScript` `React` 
+**Tech Stack:** `JavaScript` `React` `HTML5` `CSS3``Bootstrap` `Node.js/Express``MongoDB` `JWT`
 
 ---
 ### 🎓 Semester 2 Major Project
