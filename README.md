@@ -13,12 +13,11 @@
 
 </div>
 
----
-
 ## About Me
 
 <!-- Short Biography -->
 I’m a 20-year-old third-year User Experience (UX) and second-year Interactive Development student with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. Through my studio, Dhiali Digital Designs, I specialize in UX/UI design, branding and full-stack web development. I’m driven to build digital solutions that are both innovative and user-focused.
+
 ---
 
 ## 🛠️ Technical Skills
@@ -55,9 +54,6 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge)
 
-
----
-
 ## DV200 Portfolio Projects
 
 ### 🎓 Semester 1 Major Projects  
@@ -69,8 +65,6 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 **Description:** My first major project demonstrating core concepts of React, API integration and data visualization. Focused on modern web development with React, Chart.js and RESTful APIs.
 
 **Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
-
----
 
 **Project 2: [Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
 
@@ -86,7 +80,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ![Project Screenshot](HM%20mockup.png)
 
-**Description:** My first major project demonstrating full-stack web development with modern cloud deployment. Focused on React.js frontend architecture, RESTful API design, and scalable database management.
+**Description:** My first major project demonstrating full-stack web development with modern cloud deployment. Focused on React.js frontend architecture, RESTful API design and scalable database management.
 
 **Tech Stack:** `JavaScript` `React` `HTML5` `CSS3` `Vite` `Node.js/Express` `Tailwind CSS` `JWT` `MySQL`
 
