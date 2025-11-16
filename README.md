@@ -62,7 +62,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ### 🎓 Semester 1 Major Projects  
 
-**[FaceOff](https://github.com/Dhiali/super-dashboard.git)**
+** Project 1: [FaceOff](https://github.com/Dhiali/super-dashboard.git)**
 
 ![Project Screenshot](faceoff%20mockup.png)
 
