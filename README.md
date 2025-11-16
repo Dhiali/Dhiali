@@ -98,8 +98,6 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 </div>
 
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing technology, collaboration opportunities or just having a friendly chat!
