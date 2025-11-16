@@ -18,8 +18,6 @@
 <!-- Short Biography -->
 I’m a 20-year-old third-year User Experience (UX) and second-year Interactive Development student with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. Through my studio, Dhiali Digital Designs, I specialize in UX/UI design, branding and full-stack web development. I’m driven to build digital solutions that are both innovative and user-focused.
 
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -65,6 +63,8 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 **Description:** My first major project demonstrating core concepts of React, API integration and data visualization. Focused on modern web development with React, Chart.js and RESTful APIs.
 
 **Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
+
+---
 
 **Project 2: [Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
 
