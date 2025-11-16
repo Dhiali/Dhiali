@@ -74,7 +74,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 **Project 2: [Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
 
-![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+1+Project)
+![Project Screenshot](drunken%20mock up.jpg)
 
 **Description:** My first major project demonstrating [core concepts]. Focused on [specific technologies or methodologies].
 
