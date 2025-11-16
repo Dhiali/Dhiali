@@ -68,15 +68,17 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 **Description:** My first major project demonstrating core concepts of React, API integration, and data visualization. Focused on modern web development with React, Chart.js, and RESTful APIs.
 
-**Tech Stack:** `JavaScript` `HTML5` `CSS3` `Firebase`
+**Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
 
-**[Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
+---
+
+**Project 2: [Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
 
 ![Project Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Semester+1+Project)
 
 **Description:** My first major project demonstrating [core concepts]. Focused on [specific technologies or methodologies].
 
-**Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
+**Tech Stack:** `JavaScript` `React` 
 
 ---
 ### 🎓 Semester 2 Major Project
