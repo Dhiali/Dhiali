@@ -82,13 +82,13 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 ---
 ### 🎓 Semester 2 Major Project
-**[HouseMate](https://github.com/Dhiali/housemate.git)** 
+**Project 3: [HouseMate](https://github.com/Dhiali/housemate.git)** 
 
 ![Project Screenshot](HM%20mockup.png)
 
-**Description:** A comprehensive full-stack application that solves [problem statement]. Built with modern technologies including React, Node.js, and MongoDB.
+**Description:** My first major project demonstrating full-stack web development with modern cloud deployment. Focused on React.js frontend architecture, RESTful API design, and scalable database management.
 
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express` `JWT`
+**Tech Stack:** `JavaScript` `React` `HTML5` `CSS3` `Vite` `Node.js/Express` `Tailwind CSS` `JWT` `MySQL`
 
 ---
 
