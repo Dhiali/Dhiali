@@ -102,7 +102,7 @@ I’m a 20-year-old third-year User Experience (UX) and second-year Interactive 
 
 I'm always open to discussing technology, collaboration opportunities or just having a friendly chat!
 
-- **📧 Email:** [your.email@student.torrens.edu.au](mailto:info@dhialidigitaldesigns.co.za)
-- **🌐 Portfolio:** [Your Portfolio Website](https://dhialidigitaldesigns.co.za/)
+- **📧 Email:** (mailto:info@dhialidigitaldesigns.co.za)
+- **🌐 Portfolio:** (https://dhialidigitaldesigns.co.za/)
 
 ---
