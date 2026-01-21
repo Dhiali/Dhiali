@@ -7,8 +7,8 @@
   
 **DV200 Software Development Student** | **Semester 1 & 2 Major Projects**
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dhialidigitaldesigns.co.za/)
-[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:info@dhialidigitaldesigns.co.za)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dhiali.github.io/Dhiali-Portfolio-/)
+[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:dhialichetty0@gmail.com)
 [![Behance](https://img.shields.io/badge/👔-Behance-blue)](https://www.behance.net/dhialichetty1)
 
 </div>
