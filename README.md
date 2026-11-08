@@ -1,22 +1,23 @@
 <!-- Header & Profile Section -->
 <div align="center">
 
-# Welcome, I'm Dhiali Chetty of
+# Welcome!
 
 ![Profile Banner](banner.png)
   
-**DV200 Software Development Student** | **Semester 1 & 2 Major Projects**
+**DV300 Software Development Student** | **Final year projects**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dhiali.github.io/Dhiali-Portfolio-/)
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:dhialichetty0@gmail.com)
 [![Behance](https://img.shields.io/badge/👔-Behance-blue)](https://www.behance.net/dhialichetty1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiali-chetty-b446b8369/)
 
 </div>
 
 ## About Me
 
 <!-- Short Biography -->
-I’m a 20-year-old third-year User Experience (UX) and second-year Interactive Development student with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. Through my studio, Dhiali Digital Designs, I specialize in UX/UI design, branding and full-stack web development. I’m driven to build digital solutions that are both innovative and user-focused.
+I’m a 21-year-old User Experience (UX) and Interactive Developer with a passion for creating intuitive and impactful digital experiences. My dual focus allows me to bridge the gap between design and functionality through user-centered design and creative coding. At Open Window Institute, I’ve gained practical skills in user research, wireframing, prototyping, front-end and back-end development and collaboration. I’m proficient in tools like Figma, HTML/CSS/JavaScript, Adobe Suite and GitHub. I’m driven to build digital solutions that are both innovative and user-focused.
 
 ## 🛠️ Technical Skills
 
