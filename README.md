@@ -89,9 +89,15 @@ I’m a 21-year-old User Experience (UX) and Interactive Developer with a passio
 
 ## 📫 Let's Connect
 
-I'm always open to discussing technology, collaboration opportunities or just having a friendly chat!
+I'm open to discussing technology, creative projects, and collaboration.
 
-- **📧 Email:** (mailto:dhialichetty0@gmail.com)
-- **🌐 Portfolio:** (https://dhiali.github.io/Dhiali-Portfolio-/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhialichetty0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhiali.github.io/Dhiali-Portfolio-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiali-chetty-b446b8369/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dhialichetty1)
+
+</div>
 
 ---
