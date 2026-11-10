@@ -57,37 +57,16 @@ I’m a 21-year-old User Experience (UX) and Interactive Developer with a passio
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## DV200 Portfolio Projects
+## 2027 Main Projects
 
-### 🎓 Semester 1 Major Projects  
+### Artifax
+[![Artifax project header](https://raw.githubusercontent.com/I-Know-What-You-Committed-Last-Summer/Artifax/main/ProjectHeader.png)](https://github.com/I-Know-What-You-Committed-Last-Summer/Artifax)
 
-**Project 1: [FaceOff](https://github.com/Dhiali/super-dashboard.git)**
+### Kenetic
+[![Kenetic project header](https://raw.githubusercontent.com/Dhiali/Kenetic/develop/assets/images/keneticHeader.png)](https://github.com/Dhiali/Kenetic)
 
-![Project Screenshot](faceoff%20mockup.png)
-
-**Description:** My first major project demonstrating core concepts of React, API integration and data visualization. Focused on modern web development with React, Chart.js and RESTful APIs.
-
-**Tech Stack:** `JavaScript` `React` `Node.js` `CSS3`  `Chart.js`  `Bootstrap` `Axios`
-
----
-
-**Project 2: [Drunken Giraffe](https://github.com/Dhiali/mern_liquor.git)** 
-
-![Project Screenshot](drunken%20mock%20up.jpg)
-
-**Description:** My first major full-stack project demonstrating advanced MERN stack development and creative UX design. Focused on gamified authentication systems, comprehensive CRUD operations and collaborative development methodologies using modern web technologies including React, Node.js, MongoDB and drag-and-drop interfaces.
-
-**Tech Stack:** `JavaScript` `React` `HTML5` `CSS3` `Bootstrap` `Node.js/Express` `MongoDB` `JWT`
-
----
-### 🎓 Semester 2 Major Project
-**Project 3: [HouseMate](https://github.com/Dhiali/housemate.git)** 
-
-![Project Screenshot](HM%20mockup.png)
-
-**Description:** My first major project demonstrating full-stack web development with modern cloud deployment. Focused on React.js frontend architecture, RESTful API design and scalable database management.
-
-**Tech Stack:** `JavaScript` `React` `HTML5` `CSS3` `Vite` `Node.js/Express` `Tailwind CSS` `JWT` `MySQL`
+### Zuri
+[![Zuri project header](https://raw.githubusercontent.com/Dhiali/Zuri/main/docs/zuri-header.png)](https://github.com/Dhiali/Zuri)
 
 ---
 
