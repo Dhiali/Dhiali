@@ -74,11 +74,16 @@ I’m a 21-year-old User Experience (UX) and Interactive Developer with a passio
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhiali&show_icons=true&theme=radical)
+<a href="https://github.com/Dhiali">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiali&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true" alt="Dhiali's GitHub statistics" />
+</a>
+<a href="https://github.com/Dhiali">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiali&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most used languages in Dhiali's repositories" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiali&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhiali&theme=radical)
+<a href="https://github.com/Dhiali">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiali&theme=radical&hide_border=true" alt="Dhiali's GitHub contribution streak" />
+</a>
 
 </div>
 
